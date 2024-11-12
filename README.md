@@ -4,8 +4,8 @@
 <a href="https://instagram.com/https://instagram.com/vikashsathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/vikashsathe" height="20" width="20" /></a>&nbsp;&nbsp;&nbsp;
  <a href="https://twitter.com/vikashsathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vikashsathe" height="20" width="20" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://fb.com/https://facebook.com/vikashsathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/vikashsathe" height="20" width="20" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/https://hackerrank.com/vikashsathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://hackerrank.com/vikashsathe" height="20" width="20" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.leetcode.com/https://leetcode.com/vikashsathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vikashsathe" height="20" width="20" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://hackerrank.com/vikashsathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://hackerrank.com/vikashsathe" height="20" width="20" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.leetcode.com/vikashsathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vikashsathe" height="20" width="20" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/vikashsathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vikashsathe" height="20" width="20" /></a>
 <hr />
 <div>
@@ -26,6 +26,7 @@
 </div>
 <hr />
 
+<img align="right" src="https://cdn-icons-png.flaticon.com/128/7991/7991055.png" alt="git" width="150" height="150"/>
 
   - 🌱 I’m Currently Learning Java
   - 🤝 I’m looking for help with [MERN Develoment](https://github.com/vikashsathe) 
