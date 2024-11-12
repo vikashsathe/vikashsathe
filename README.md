@@ -1,8 +1,4 @@
-<div>
 <h1 align="center">Hi, I'm Vikash Sathe</h1>
- </div>
- 
-                
 <span>A passionate Full Stack developer</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vikash-sathe-941166208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vikash-sathe-941166208/" height="20" width="20" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/https://instagram.com/vikashsathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/vikashsathe" height="20" width="20" /></a>&nbsp;&nbsp;&nbsp;
@@ -11,10 +7,7 @@
 <a href="https://www.hackerrank.com/https://hackerrank.com/vikashsathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://hackerrank.com/vikashsathe" height="20" width="20" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.leetcode.com/https://leetcode.com/vikashsathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vikashsathe" height="20" width="20" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/vikashsathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vikashsathe" height="20" width="20" /></a>
-
-
 <hr />
-
 <div>
 <h3 align="left">Skills:</h3>
 <div align="center" display="flex"> 
@@ -33,14 +26,10 @@
 </div>
 <hr />
 
- 
-  - 🔭 I’m currently working on [Dreamify - Holiday Destination](https://github.com/vikashsathe/Dreamify) 
-  - 🌱 I’m currently learning Java
+
+  - 🌱 I’m Currently Learning Java
   - 🤝 I’m looking for help with [MERN Develoment](https://github.com/vikashsathe) 
   - 📫 How to reach me **vikashsathe83@gmail.com**
-  - 📄 Know about my experiences [https://my-portfolio-vikashsathe.netlify.app/](https://my-portfolio-vikashsathe.netlify.app/)
-
-    
 <hr />
 <div display="flex" align="center">
 <img width="40%" height="135px" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashsathe&show_icons=true&locale=en&layout=compact" alt="vikashsathe" />
@@ -50,4 +39,4 @@
 <p>Portfolio</p> 
 
          https://my-portfolio-vikashsathe.netlify.app
-
+ 
