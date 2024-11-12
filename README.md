@@ -26,7 +26,7 @@
 </div>
 <hr />
 
-<img align="right" src="https://cdn-icons-png.flaticon.com/128/7991/7991055.png" alt="git" width="150" height="150"/>
+
 
   - 🌱 I’m Currently Learning Java
   - 🤝 I’m looking for help with [MERN Develoment](https://github.com/vikashsathe) 
