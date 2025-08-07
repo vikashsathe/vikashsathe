@@ -39,5 +39,4 @@
 <hr /> 
 <p>Portfolio</p> 
 
-         
- https://vikashsathe-portfolio.netlify.app/
+         https://vikashsathe-portfolio.netlify.app/
