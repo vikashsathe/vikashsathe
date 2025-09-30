@@ -6,8 +6,7 @@
 </h1>
 
 
-<h2>💚 Get in Touch : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://vikashsathe-portfolio.netlify.app" target="_blank">
+<h2><a href="https://vikashsathe-portfolio.netlify.app" target="_blank">
 <strong>Portfolio</strong>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
