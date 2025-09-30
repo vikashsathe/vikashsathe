@@ -5,7 +5,6 @@
  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=35&color=FFE066&vCenter=true&width=450&lines=Full+Stack+Developer;MERN+Stack+Developer;Frontend+Developer;Backend+Developer" alt="Typing Animation" />
 </h1>
 
-
 <h3><a href="https://vikashsathe-portfolio.netlify.app" target="_blank">
 <strong>Portfolio</strong>
   </a>
@@ -29,10 +28,10 @@
   <img src="https://skillicons.dev/icons?i=express" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=php" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=java" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -40,15 +39,8 @@
   <img src="https://skillicons.dev/icons?i=materialui" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vite" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=redux" width="50" height="50" />
 </p>
-
-<!-- <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,mongodb,express,react,nodejs,tailwind,bootstrap,php,java,git,github,materialui,nextjs,vite,redux" alt="Skills" />
-</p> -->
 
 <h2>GitHub Stats</h2> 
 <p align="center">
