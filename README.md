@@ -12,7 +12,7 @@
   </a>
 </h2>
 
-<p>
+<p align="center">
   <a href="mailto:vikashsathe83@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40" />
   </a>
@@ -27,12 +27,35 @@
 </p>
 
 <h2>Things I'm good at </h2>
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,mongodb,express,react,nodejs,tailwind,bootstrap,php,java,git,github" alt="Skills" />
-  <img src="https://gsap.com/community/uploads/monthly_2020_03/tweenmax.png.cf27916e926fbb328ff214f66b4c8429.png" width="45" height="45" alt="GSAP" />
-  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="45" height="45" alt="Framer Motion" />
-  <img src="https://cdn-icons-png.flaticon.com/128/15455/15455677.png" width="45" height="45" style="border:2px solid #4CAF50; border-radius:12px; padding:4px;" alt="Other Tech" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=materialui" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vite" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=redux" width="50" height="50" />
+</p>
+
+<!-- <p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,mongodb,express,react,nodejs,tailwind,bootstrap,php,java,git,github,materialui,nextjs,vite,redux" alt="Skills" />
+</p> -->
 
 <h2>GitHub Stats</h2> 
 <p align="center">
