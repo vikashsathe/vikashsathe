@@ -13,7 +13,7 @@
     <strong>Gmail</strong>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/yourusername" target="_blank">
+    <a href="https://www.instagram.com/vikashsathe_" target="_blank">
    <strong>Instagram</strong>
   </a>
 </h3>
