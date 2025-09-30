@@ -10,21 +10,15 @@
     <a href="https://vikashsathe-portfolio.netlify.app" target="_blank">
 <strong>Portfolio</strong>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:vikashsathe83@gmail.com" target="_blank">
+    <strong>Gmail</strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/yourusername" target="_blank">
+   <strong>Instagram</strong>
+  </a>
 </h2>
-
-<p align="center">
-  <a href="mailto:vikashsathe83@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/yourusername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40" />
-  </a>
-</p>
 
 <h2>Things I'm good at </h2>
 <p align="center">
