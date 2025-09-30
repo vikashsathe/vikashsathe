@@ -44,6 +44,6 @@
 <h2>GitHub Stats</h2> 
 <p align="center">
   <img width="48%" height="190" src="https://github-readme-streak-stats.herokuapp.com?user=vikashsathe&theme=tokyonight" alt="GitHub Streak" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="48%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashsathe&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
