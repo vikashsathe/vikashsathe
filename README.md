@@ -6,7 +6,7 @@
 </h1>
 
 
-<h2><a href="https://vikashsathe-portfolio.netlify.app" target="_blank">
+<h4><a href="https://vikashsathe-portfolio.netlify.app" target="_blank">
 <strong>Portfolio</strong>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -17,7 +17,7 @@
     <a href="https://www.instagram.com/yourusername" target="_blank">
    <strong>Instagram</strong>
   </a>
-</h2>
+</h4>
 
 <h2>Things I'm good at </h2>
 <p align="center">
