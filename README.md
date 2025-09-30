@@ -9,30 +9,30 @@
 
 ---
 
-### 🌐 Connect with Me  
-<p align="center">
-  <a href="https://linkedin.com/in/vikash-sathe-941166208" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://instagram.com/vikashsathe" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://twitter.com/vikashsathe" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://facebook.com/vikashsathe" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://hackerrank.com/vikashsathe" target="_blank">
-    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://leetcode.com/vikashsathe" target="_blank">
-    <img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/vikashsathe" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+🌐 Connect with Me  
+<p>
+  
+  <a href="vikashsathe83@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="GitHub" width="40" height="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://leetcode.com/vikashsathe" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" alt="React" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://leetcode.com/vikashsathe" target="_blank">
+<img src="https://skillicons.dev/icons?i=tiwitter" alt="React" width="40" height="40" />
+  </a>
+
+
+  
+  
+
 </p>
+
+
+
+
 
 ---
 
@@ -43,7 +43,7 @@
 - ✨ I love learning new technologies and improving my skills  
 - 📫 Reach me at **vikashsathe83@gmail.com**  
 - 🌍 Visit my **Portfolio:** [vikashsathe-portfolio.netlify.app](https://vikashsathe-portfolio.netlify.app)
-
+  
 ---
 
 ### 🛠️ My Tech Stack
@@ -57,20 +57,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vikashsathe&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=vikashsathe&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashsathe&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
----
 
-### ⚡ Fun Fact  
-💡 *“I believe coding is like magic — turn your imagination into reality.”* ✨  
-
----
-
-⭐ **Thanks for visiting my profile!**  
-💬 *Let’s connect and build something amazing together!*
