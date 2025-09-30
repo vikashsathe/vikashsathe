@@ -9,11 +9,11 @@
 <h2><a href="https://vikashsathe-portfolio.netlify.app" target="_blank">
 <strong>Portfolio</strong>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:vikashsathe83@gmail.com" target="_blank">
     <strong>Gmail</strong>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/yourusername" target="_blank">
    <strong>Instagram</strong>
   </a>
