@@ -2,10 +2,9 @@
 <h1>
   Hello<br>
   I'm VIKASH SATHE <br>
- <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=35&color=ffffff&vCenter=true&width=450&lines=Full+Stack+Developer;Frontend+Developer;Backend+Developer" alt="Typing Animation" />
+ <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=35&color=FFE066&vCenter=true&width=450&lines=Full+Stack+Developer;Frontend+Developer;Backend+Developer" alt="Typing Animation" />
 </h1>
 
----
 
 <h1>💚 Get in Touch : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://vikashsathe-portfolio.netlify.app" target="_blank">
@@ -17,17 +16,15 @@
   <a href="mailto:vikashsathe83@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/yourusername" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/yourusername" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40" />
   </a>
 </p>
-
----
 
 <h1>Things I'm good at </h1>
 <p align="center">
@@ -36,8 +33,6 @@
   <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="45" height="45" alt="Framer Motion" />
   <img src="https://cdn-icons-png.flaticon.com/128/15455/15455677.png" width="45" height="45" style="border:2px solid #4CAF50; border-radius:12px; padding:4px;" alt="Other Tech" />
 </p>
-
----
 
 <h1>GitHub Stats</h1> 
 <p align="center">
