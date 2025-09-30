@@ -2,7 +2,7 @@
 <h1>
   Hello<br>
   I'm VIKASH SATHE <br>
- <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=35&color=FFE066&vCenter=true&width=450&lines=Full+Stack+Developer;Frontend+Developer;Backend+Developer" alt="Typing Animation" />
+ <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=35&color=FFE066&vCenter=true&width=450&lines=Full+Stack+Developer;MERN+Stack+Developer;Frontend+Developer;Backend+Developer" alt="Typing Animation" />
 </h1>
 
 
